@@ -2,7 +2,7 @@
 
 
   ## Description
-  This is a command-line application that will accept user input when asked for information and then a README.md will be generated.
+  This is a command-line application that will accept user input when asked for information and then generate a README.md
 
 
   # Table of Contents
@@ -39,7 +39,7 @@
   Always room for people to contribute.
 
   ## Tests
-  Have run test to make the README.md will generate and that the user input will display.
+  Have run test to make sure the README.md will generate and that the user input will display
 
   ## Questions
   Contact me here: angelacr@ymail.com
