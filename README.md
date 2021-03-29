@@ -17,7 +17,7 @@
   * [Questions](#Questions)
 
   ## Installation
-  The user will install init and inquirer.
+  The user will install init and inquirer
 
   ## Usage
   In the terminal you will write out node index.js and then start answering the questions.
@@ -39,7 +39,7 @@
   Always room for people to contribute.
 
   ## Tests
-  Have run test to make sure the README.md will generate and that the user input will display
+  Have run test to make sure the README.md will generate and that the user input will display.
 
   ## Questions
   Contact me here: angelacr@ymail.com
