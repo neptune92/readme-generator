@@ -1,27 +1,27 @@
-# readme
+# README Generator
 
 
   ## Description
-  idk
+  This is a command-line application that will take a users input from answering a series of questions given which will then generate a README file
 
 
   # Table of Contents
-  * idk
-  * idk
-  * no
-  * Apache License 2.0
+  * The user will install init and inquirer
+  * In the terminal type in node index.js then start answer then start answer the questions
+  * Always open for collaboraors
+  * MIT License
 
   ## Installation
-  idk
+  The user will install init and inquirer
 
   ##Usage
-  idk
+  In the terminal type in node index.js then start answer then start answer the questions
 
   ## Credits
-  no
+  Always open for collaboraors
 
   ## License
-  Apache License 2.0
+  MIT License
 
   ## Badges
 
