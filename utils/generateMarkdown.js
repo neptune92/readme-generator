@@ -51,7 +51,7 @@ function generateMarkdown(data) {
 
   ## Questions?
   Contact me here: ${data.email}
-  ${data.github}
+  <a herf=${data.github}>
 
 `;
 }
