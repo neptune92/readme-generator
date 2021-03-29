@@ -38,7 +38,7 @@ function generateMarkdown(data) {
   The following video is a demonstration on how to run the file:
 
   ## Credits
-  [${data.Credits}](github.com/${data.Credits})
+  ${data.Credits}
 
   ## License
   ${data.License}
