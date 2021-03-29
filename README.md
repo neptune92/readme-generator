@@ -2,7 +2,7 @@
 
 
   ## Description
-  idk
+  skjg
 
 
   # Table of Contents
@@ -10,15 +10,21 @@
   * [Usage](#Usage)
   * [Credits](#Credits)
   * [License](#License)
+  * [Badges](#Badges)
+  * [Features](#Features)
+  * [Contributing](#Contributing)
+  * [Test](#Test)
+  * [Questions](#Questions)
 
   ## Installation
-  idk
+  dsfksj
 
   ## Usage
-  idk
+  slfdakj
+  The following video is a demonstration on how to run the file:
 
   ## Credits
-  mayb
+  [neptune92 neptune92 neptune92](github.com/neptune92 neptune92 neptune92)
 
   ## License
   MIT License
@@ -30,12 +36,12 @@
 
 
   ## Contributing
-  mayb
+  none atm but open to
 
   ## Tests
 
 
-  ## Questions?
-  Contact me here: angelacr@ymail.com
-  github.com/neptune92
+  ## Questions
+  Contact me here: ajsaklfj
+  [neptune92](github.com/neptune92)
 

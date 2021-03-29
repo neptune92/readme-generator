@@ -24,15 +24,21 @@ function generateMarkdown(data) {
   * [Usage](#Usage)
   * [Credits](#Credits)
   * [License](#License)
+  * [Badges](#Badges)
+  * [Features](#Features)
+  * [Contributing](#Contributing)
+  * [Test](#Test)
+  * [Questions](#Questions)
 
   ## Installation
   ${data.Installation}
 
   ## Usage
   ${data.Usage}
+  The following video is a demonstration on how to run the file:
 
   ## Credits
-  ${data.Collaborators}
+  [${data.Credits}](github.com/${data.Credits})
 
   ## License
   ${data.License}
@@ -49,9 +55,9 @@ function generateMarkdown(data) {
   ## Tests
 
 
-  ## Questions?
+  ## Questions
   Contact me here: ${data.email}
-  <a herf=${data.github}>
+  [${data.github}](github.com/${data.github})
 
 `;
 }

@@ -30,6 +30,14 @@ const questions = [{
 
 {
     type: "input",
+    message: "Did you work with anyone on this project? Is so enter their GitHub username.",
+    name: "Credits"
+},
+
+
+
+{
+    type: "input",
     message: "Are there any collaborators?",
     name:"Collaborators"
 },
@@ -65,7 +73,7 @@ const questions = [{
 
     {
     tyep: "input",
-    message: "What is your GitHub?",
+    message: "What is your GitHub username?",
     name: "github"
     }
 
@@ -88,8 +96,8 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions)
     .then(answers => {
-        const idk = generateMarkdown(answers);
-        writeToFile("README.md", idk)
+        const generate = generateMarkdown(answers);
+        writeToFile("README.md", generate)
 
     })
     
