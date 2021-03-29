@@ -32,7 +32,7 @@ function generateMarkdown(data) {
   ${data.Usage}
 
   ## Credits
-  ${data.Credits}
+  ${data.Collaborators}
 
   ## License
   ${data.License}
@@ -44,13 +44,14 @@ function generateMarkdown(data) {
 
 
   ## Contributing
-
+  ${data.Collaborators}
 
   ## Tests
 
 
   ## Questions?
-
+  Contact me here: ${data.email}
+  ${data.github}
 
 `;
 }

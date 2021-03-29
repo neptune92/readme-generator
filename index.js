@@ -31,7 +31,7 @@ const questions = [{
 {
     type: "input",
     message: "Are there any collaborators?",
-    name:"Credits"
+    name:"Collaborators"
 },
 
 {
@@ -53,10 +53,23 @@ const questions = [{
         "GNU Lesser General Public License v2.1",
         "Mozilla Public License 2.0",
         "The Unlicense"
-        
-   ]
+        ],
+    },
 
-}
+    {
+    type: "input",
+    message: "What is your email?",
+    name: "email"
+    
+    },
+
+    {
+    tyep: "input",
+    message: "What is your GitHub?",
+    name: "github"
+    }
+
+
 ];
 
 // TODO: Create a function to write README file
