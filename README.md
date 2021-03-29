@@ -1,8 +1,8 @@
-# README Generator
+# readme
 
 
   ## Description
-  This is a command-line application that will take a users input from answering a series of questions given which will then genrate a README file
+  idk
 
 
   # Table of Contents
@@ -12,13 +12,13 @@
   * [License](#License)
 
   ## Installation
-  The user will install init and inquirer
+  idk
 
   ## Usage
-  In the terminal type in node index.js then start answer the questions
+  idk
 
   ## Credits
-  Open for any conllaborators to join
+  mayb
 
   ## License
   MIT License
@@ -30,11 +30,12 @@
 
 
   ## Contributing
-
+  mayb
 
   ## Tests
 
 
   ## Questions?
-
+  Contact me here: angelacr@ymail.com
+  github.com/neptune92
 
