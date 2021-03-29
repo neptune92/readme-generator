@@ -20,10 +20,10 @@ function generateMarkdown(data) {
 
 
   # Table of Contents
-  * Installation
-  * Usage
-  * Credits
-  * License
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [Credits](#Credits)
+  * [License](#License)
 
   ## Installation
   ${data.Installation}
@@ -47,6 +47,9 @@ function generateMarkdown(data) {
 
 
   ## Tests
+
+
+  ## Questions?
 
 
 `;
