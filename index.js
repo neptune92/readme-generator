@@ -30,7 +30,7 @@ const questions = [{
 
 {
     type: "input",
-    message: "Did you work with anyone on this project? Is so enter their GitHub username.",
+    message: "Did you work with anyone on this project? Is so enter their name and GitHub username.",
     name: "Credits"
 },
 
@@ -65,16 +65,28 @@ const questions = [{
     },
 
     {
-    type: "input",
-    message: "What is your email?",
-    name: "email"
+        type: "input",
+        message: "What are some features about this project?",
+        name: "Features"
+    },
+
+    {
+        type: "input",
+        message: "Have you run any tests?",
+        name: "Tests"
+    },
+
+    {
+        type: "input",
+        message: "What is your email?",
+        name: "email"
     
     },
 
     {
-    tyep: "input",
-    message: "What is your GitHub username?",
-    name: "github"
+        tyep: "input",
+        message: "What is your GitHub username?",
+        name: "github"
     }
 
 

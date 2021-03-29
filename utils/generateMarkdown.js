@@ -53,7 +53,7 @@ function generateMarkdown(data) {
   ${data.Collaborators}
 
   ## Tests
-
+  ${data.Tests}
 
   ## Questions
   Contact me here: ${data.email}
