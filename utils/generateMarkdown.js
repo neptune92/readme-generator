@@ -20,10 +20,10 @@ function generateMarkdown(data) {
 
 
   # Table of Contents
-  * ${data.Installation}
-  * ${data.Usage}
-  * ${data.Credits}
-  * ${data.License}
+  * Installation
+  * Usage
+  * Credits
+  * License
 
   ## Installation
   ${data.Installation}
