@@ -28,7 +28,7 @@ function generateMarkdown(data) {
   ## Installation
   ${data.Installation}
 
-  ##Usage
+  ## Usage
   ${data.Usage}
 
   ## Credits

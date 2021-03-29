@@ -14,7 +14,7 @@
   ## Installation
   The user will install init and inquirer
 
-  ##Usage
+  ## Usage
   In the terminal type in node index.js then start answer the questions
 
   ## Credits
