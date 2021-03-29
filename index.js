@@ -39,7 +39,7 @@ const questions = [{
 {
     type: "input",
     message: "Are there any collaborators?",
-    name:"Collaborators"
+    name:"Contributing"
 },
 
 {

@@ -2,7 +2,7 @@
 
 
   ## Description
-  This is a command-line application that will accept a users input from answering the questions.
+  This is a command-line application that will accept user input when asked for information and then a README.md will be generated.
 
 
   # Table of Contents
@@ -17,10 +17,10 @@
   * [Questions](#Questions)
 
   ## Installation
-  The user will install npm i
+  The user will install init and inquirer.
 
   ## Usage
-  In the terminal you will write out node index.js hit enter and then start answering the questions.
+  In the terminal you will write out node index.js and then start answering the questions.
   The following video is a demonstration on how to run the file:
 
   ## Credits
@@ -36,12 +36,13 @@
 
 
   ## Contributing
-  Always open for any collabs
+  Always room for people to contribute.
 
   ## Tests
-  Have run test to make sure the input will show and to make sure there are no bugs
+  Have run test to make the README.md will generate and that the user input will display.
 
   ## Questions
   Contact me here: angelacr@ymail.com
+  <br>
   [neptune92](github.com/neptune92)
 

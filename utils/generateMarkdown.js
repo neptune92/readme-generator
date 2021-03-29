@@ -50,13 +50,14 @@ function generateMarkdown(data) {
 
 
   ## Contributing
-  ${data.Collaborators}
+  ${data.Contributing}
 
   ## Tests
   ${data.Tests}
 
   ## Questions
   Contact me here: ${data.email}
+  <br>
   [${data.github}](github.com/${data.github})
 
 `;
