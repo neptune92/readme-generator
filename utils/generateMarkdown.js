@@ -35,7 +35,7 @@ function generateMarkdown(data) {
 
   ## Usage
   ${data.Usage}
-  The following video is a demonstration on how to run the file:
+  The following video is a demonstration on how to run the file: <a href="https://www.youtube.com/watch?v=SELJoty1R58&ab_channel=AngelaRubio">Link</a>
 
   ## Credits
   ${data.Credits}

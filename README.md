@@ -21,7 +21,7 @@
 
   ## Usage
   In the terminal you will write out node index.js and then start answering the questions.
-  The following video is a demonstration on how to run the file:
+  The following video is a demonstration on how to run the file: <a href="https://www.youtube.com/watch?v=SELJoty1R58&ab_channel=AngelaRubio" target="_blank">Link</a>
 
   ## Credits
   
